@@ -20,4 +20,4 @@ z+Ny99K22iADCYkfagD9E5io38YPhhd31rWvtnc7OVzotVRsxbNeFc7lz52iUGA=
 -----END PGP SIGNATURE-----
 ```
 
-plowsof4096.asc is an rsa4096 key which i've generated on this particular machine. the above message is signed with keys stored on my hardware wallet which is backed up correctly so is a more reliable way of provindg my identity.
+plowsof4096.asc is an rsa4096 key which i've generated on this particular machine. the above message is signed with keys stored on my hardware wallet which is backed up correctly so it's a more reliable way of proving my identity, rather than a secure means of contact.
