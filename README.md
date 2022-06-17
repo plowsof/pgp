@@ -1,4 +1,4 @@
-The below message was created using this handy script called [monero-gpg](https://github.com/hinto-janaiyo/monero-gpg) (author Hinto-Janaiyo)
+The below message was created using this handy script called [monero-gpg](https://github.com/hinto-janaiyo/monero-gpg) (author Hinto-Janaiyo).
 ```
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
@@ -19,3 +19,5 @@ z+Ny99K22iADCYkfagD9E5io38YPhhd31rWvtnc7OVzotVRsxbNeFc7lz52iUGA=
 =06ne
 -----END PGP SIGNATURE-----
 ```
+
+plowsof4096.asc is an rsa4096 key which i've generated on this particular machine. the above message is signed with keys stored on my hardware wallet which is backed up correctly so is a more reliable way of provindg my identity.
