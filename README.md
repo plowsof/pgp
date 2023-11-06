@@ -20,4 +20,22 @@ z+Ny99K22iADCYkfagD9E5io38YPhhd31rWvtnc7OVzotVRsxbNeFc7lz52iUGA=
 -----END PGP SIGNATURE-----
 ```
 
-plowsof4096.asc is an rsa4096 key which i've generated on this particular machine. the above message is signed with keys stored on my hardware wallet which is backed up correctly so it's a more reliable way of proving my identity, rather than a secure means of contact.
+plowsof3072.asc is an rsa3072 key which i've generated on this particular machine, and is not stored/created securely. the above message is signed with keys stored on my hardware wallet which is backed up correctly so it's a more reliable way of proving my identity, rather than a secure means of contact.
+
+```
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+this is my key ~ signed plowsof
+
+pub   rsa4096 2023-11-06 [SCE] [expires: 2025-11-06]
+      09DA16A2BB972ACB714DD035E729EF1B064F9488
+-----BEGIN PGP SIGNATURE-----
+
+iI0EARMIADUWIQTci88MUIPyAweCgD5OipEtQO0FLAUCZUh6jBcccGxvd3NvZkBw
+cm90b25tYWlsLmNvbQAKCRBOipEtQO0FLM4FAP9iW+eltuHXnK7XtOAJKGwM3B3X
+8JjP2uXu+PCkhpAgDAD+Pkr3A+7Q7sqN2bvUxp/2SCROCqyuhvE+/yqVGZH8tm4=
+=PG2k
+-----END PGP SIGNATURE-----
+```
+plowsof.asc is a more securely created(tm) key to send me sensitive data
