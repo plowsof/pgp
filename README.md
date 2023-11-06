@@ -38,4 +38,4 @@ cm90b25tYWlsLmNvbQAKCRBOipEtQO0FLM4FAP9iW+eltuHXnK7XtOAJKGwM3B3X
 =PG2k
 -----END PGP SIGNATURE-----
 ```
-plowsof.asc is a more securely created(tm) key to send me sensitive data
+plowsof.asc is a more securely created(tm) key to send me sensitive data. ive signed it with my hw wallet above.
